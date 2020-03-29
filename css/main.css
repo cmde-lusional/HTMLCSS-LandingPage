@@ -159,12 +159,12 @@ section{
   text-transform: uppercase;
 }
 
-.hero div h1{
+.hero h1{
   position: relative;
   left: -30px;
 }
 
-.hero div h2{
+.hero h2{
   color: #faa541;
 }
 
