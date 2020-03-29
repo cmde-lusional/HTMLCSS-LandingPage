@@ -152,7 +152,7 @@ section{
 }
 
 .hero{
-  background-image: url(img/hero.jpg);
+  background-image: url(hero.jpg);
   height: 400px;
   background-size: cover; /* Resize the background image to cover the entire container */
   background-position: center;
