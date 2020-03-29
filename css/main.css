@@ -169,12 +169,12 @@ section{
 }
 
 .hero h1, .hero h2{
-  font-size:63px;
+  font-size: 63px;
   font-weight: 700;
-  line-height: 0.9px;
+  line-height: 0.9;
 }
 
-.hero div p{
+.hero p{
   letter-spacing: 2px;
   font-weight: 700;
   font-size: 21px;
