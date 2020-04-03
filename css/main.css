@@ -253,7 +253,7 @@ section{
   background-image: url('../img/vista.jpg');
   background-size: cover;
   background-position: top center;
-  height: 400px;
+  min-height: 400px;
 }
 
 .full-banner-sidebar{
